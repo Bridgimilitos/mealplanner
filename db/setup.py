@@ -4,6 +4,7 @@ requires = [
     'flask',
     'flask-sqlalchemy',
     'pyodbc',
+    'sqlalchemy'
 ]
 
 setup(
